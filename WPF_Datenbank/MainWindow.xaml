@@ -8,6 +8,7 @@
         xmlns:localUC_="clr-namespace:WPF_Datenbank.Grundlage"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <localUC_:UC_Grundlage/>
+
     </Grid>
 </Window>
